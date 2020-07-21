@@ -1,16 +1,16 @@
 # Annuaire ESTO
 
-This project is a dynamic website of a directory for University of Technology of Oujda 'ESTO', allows to identify and list different users according to a hierarchy of
-categories. You can search for a phone number or an email address: by name,
+This project is a dynamic website of a directory for the University of Technology of Oujda 'ESTO', allows to identify and list different users according to a hierarchy of
+categories. You can search for a phone numbers or an email addresses: by name,
 by sector, by student, by teacher, by administrator .... Users can also use
-this web application to change their personal information (phone number, e-mail,
+this web application to change their personal informations (phone number, e-mail,
 Password).
 
 The repository structure :
 
 - AnnuaireESTO Website Folder contains:
-  - AnnuaireESTO folder which is the actual website folder which contains the different php,js,css files
-  - Database SQL Script contains the sql file that should be imported in phpmyadmin so the website can work properly
+  - AnnuaireESTO subfolder which is the actual website folder which contains the different php,js,css files
+  - Database SQL Script subfolder contains the sql file that should be imported in phpmyadmin so the website can work properly
   - text file contains different users accounts for the website tests
 - DB & Merise Modeling contains :
   - DB_Screenshots subfolder contains different mysql tables
